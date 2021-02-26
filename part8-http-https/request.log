@@ -1,0 +1,5 @@
+客户端请求所用的方法：GET
+客户端请求所用的url字符串：undefined
+客户端请求所用的头对象：{"host":"127.0.0.1:1339","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","referer":"http://127.0.0.1:1339/?data=pp&name=luo","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9,en;q=0.8","cookie":"UM_distinctid=176db56e959805-0639b84d9f5eea-2d604637-3d10d-176db56e95a6b4; p_h5_u=65D2FA85-1BD8-4065-8AE3-001779C3033F; __utma=96992031.224060827.1610610946.1610610946.1610610946.1; __utmz=96992031.1610610946.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); CNZZDATA1278932385=388439139-1609996283-null%7C1613718586"}
+客户端请求所用的HTTP版本：1.1
+客户端请求所用的req：[object Object]

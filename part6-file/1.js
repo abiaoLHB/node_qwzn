@@ -32,6 +32,14 @@ fs.writeFile('./buff.txt',newData,(err)=>{
     }
 })
 
-console.log(fs.readdir('./'),function(){
+console.log(fs.readdir('./',function(err,files){
     console.log('读取目录');
-});
+    console.log(files);
+    console.log('读取目录');
+}));
+
+fs.exists('./index.text',(exists)=>{
+    console.log('exists');
+    console.log(exists);
+    console.log('exists');
+})
